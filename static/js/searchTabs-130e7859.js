@@ -1,0 +1,1 @@
+import{x as e}from"./index-c3035823.js";const t=e({id:"pure-search",state:()=>({searchLabs:"",endOfCountdown:!1}),actions:{setSearchLabs(s){this.searchLabs=s},setEndOfCountdown(s){this.endOfCountdown=s}}});export{t as u};

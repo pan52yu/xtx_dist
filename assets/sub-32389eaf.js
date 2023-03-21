@@ -1,1 +1,0 @@
-import{d as e,u as s,o as a,c}from"./index-aa325c20.js";const n={class:"category"},r=e({name:"SubCategory"}),i=e({...r,setup(_){const o=s(),{params:t}=o;return console.log("🚀 ~ file:sub line:5 >>>",t),(u,l)=>(a(),c("div",n,"二级分类组件"))}});export{i as default};
